@@ -1,89 +1,66 @@
-# Contentful AI Workflow Simulation (Portfolio Demo)
+# contentful-ai-demo
 
-This project demonstrates **three simulated AI workflows** inside Contentful:  
-1. Alt Text (Accessibility & SEO)  
-2. Rewrite / Tone Adjustment (Content Refinement)  
-3. SEO Optimization (Metadata)  
-
-Although some AI Actions are premium-only, I designed workflows and prompts that simulate how they would be applied in real scenarios.  
-This aligns directly with the responsibilities of an **AI Product Manager** — improving accessibility, accelerating content workflows, and ensuring discoverability at scale.  
+Portfolio demo simulating AI workflows in Contentful (**Alt Text**, **Rewrite/Tone Adjustment**, **SEO Optimization**).
 
 ---
 
-## 🔹 1. Alt Text Workflow (Accessibility & SEO)
+## A. Alt Text Workflow
 
-**Capture A1 (Before alt text)**  
-- Image asset had no description or alt text.  
+- **Capture A1 (Before alt text)**  
+  ![Capture A1](docs/img/Capture%20A1.png)
 
-**Capture A2 (After alt text)**  
-- Simulated AI alt text workflow:  
-  > *"Flat illustration showing marketers collaborating with AI-powered workflows on digital screens."*  
+- **Capture A2 (Adding alt text)**  
+  ![Capture A2](docs/img/Capture%20A2.png)
 
-**Capture A3 (After Published)**  
-- Published the simulated AI alt text into the Contentful entry.  
+- **Capture A3 (Publishing alt text)**  
+  ![Capture A3](docs/img/Capture%20A3.png)
 
-**Impact:**  
-- Improved accessibility for screen readers.  
-- Enhanced SEO by making assets more discoverable.  
+- **Impact:**  
+  Improved accessibility and SEO with meaningful, descriptive image alt text.
 
 ---
 
-## 🔹 2. Rewrite / Tone Adjustment Workflow (Content Refinement)
+## B. Rewrite / Tone Adjustment Workflow
 
-**Capture B1 (Text before Rewrite)**  
-- Body text (original copy):  
-  > *"Our platform helps companies create digital content. It makes the process faster and easier for teams."*  
+- **Capture B1 (Original text)**  
+  ![Capture B1](docs/img/Capture%20B1.png)
 
-**Capture B2 (Text after Rewrite)**  
-- Prompt (AI Simulation):  
-  *“Rewrite this copy in a concise, on-brand, marketing tone.”*  
-- After (AI-style rewrite):  
-  > *"Create and publish digital content effortlessly — faster, smarter, and at scale."*  
+- **Capture B2 (Applying rewrite workflow)**  
+  ![Capture B2](docs/img/Capture%20B2.png)
 
-**Capture B3 (Text after rewrite + status Published)**  
-- Entry published with rewritten copy.  
+- **Capture B3 (Review & publish changes)**  
+  ![Capture B3](docs/img/Capture%20B3.png)
 
-**Capture B4 (Preview text after rewrite)**  
-- Verified changes in **Contentful Live Preview** to confirm rewritten on-brand copy was instantly reflected on the Marketing Website template.  
+- **Capture B4 (Preview updated content)**  
+  ![Capture B4](docs/img/Capture%20B4.png)
 
-**Impact:**  
-- Copy adapted to a more engaging, on-brand style.  
-- Demonstrates how AI-assisted rewrites refine messaging and save time for marketing teams.  
+- **Impact:**  
+  Demonstrated ability to adapt messaging tone for clarity, engagement, and consistency across enterprise-grade content.
 
 ---
 
-## 🔹 3. SEO Optimization Workflow (Metadata)
+## C. SEO Optimization Workflow
 
-**Capture C1 (Before SEO optimization)**  
-- Homepage was missing SEO metadata → search engines would fallback to default titles.  
+- **Capture C1 (SEO entry draft)**  
+  ![Capture C1](docs/img/Capture%20C1.png)
 
-**Capture C2 (After SEO optimization - Published)**  
-- Created and published a custom SEO entry (*Homepage SEO – AI Workflow Demo*).  
-- Optimized fields:  
-  - **SEO Title:** *"Build Personalized Digital Experiences with AI Workflows"*  
-  - **SEO Description:**  
-    *"Empower your team with composable content and AI workflows. Build personalized, on-brand experiences at scale with confidence."*  
+- **Capture C2 (Editing SEO metadata)**  
+  ![Capture C2](docs/img/Capture%20C2.png)
 
-**Capture C3 (After with SEO metadata)**  
-- Linked SEO metadata entry to Homepage.  
-- Verified published status.  
+- **Capture C3 (After with SEO metadata)**  
+  ![Capture C3](docs/img/Capture%20C3.png)
 
-**Impact:**  
-- Improved search engine ranking and keyword alignment.  
-- Ensured the website is channel-ready and discoverable.  
+- **Impact:**  
+  Enhanced search engine ranking and keyword alignment, ensuring site is more discoverable and channel-ready.
 
 ---
 
 ## ✅ Conclusion
 
-By simulating **Alt Text**, **Rewrite/Tone adjustment**, and **SEO Optimization** workflows:  
-- Showed how AI can improve **accessibility, engagement, and discoverability**.  
-- Demonstrated **hands-on product thinking**: from user problem → solution → measurable impact.  
-- Highlights readiness for roles like **AI Product Manager**, bridging business needs and technical execution in SaaS/enterprise environments.  
+By simulating **Alt Text**, **Rewrite/Tone Adjustment**, and **SEO Optimization** workflows inside Contentful:
+
+- Showcased how AI can improve **accessibility, engagement, and discoverability**.  
+- Demonstrated **hands-on product thinking**: from identifying user problem → proposing solution → executing workflows.  
+- Highlights readiness for roles like **AI Product Manager**, bridging **AI capabilities** with **enterprise content management**.
 
 ---
-
-📂 **Screenshots:**  
-- A1–A3 → Alt Text workflow  
-- B1–B4 → Rewrite workflow  
-- C1–C3 → SEO workflow  
